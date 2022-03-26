@@ -1,1 +1,2 @@
-
+testchild
+print
